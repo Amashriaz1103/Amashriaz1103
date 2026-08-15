@@ -13,33 +13,33 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20%7C%20VIT%20Bhopal-161B22?style=flat-square&logo=academia&logoColor=9B7EDE"/>
-  <img src="https://img.shields.io/badge/CGPA%20%7C%208.09-161B22?style=flat-square&logoColor=7B61FF"/>
-  <img src="https://img.shields.io/badge/India-161B22?style=flat-square&logo=googlemaps&logoColor=9B7EDE"/>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Bhopal-6C5CE7?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CGPA-8.09-7B61FF?style=for-the-badge&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/India-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF"/>
 </p>
 
 <p align="center">
   <a href="https://amash-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=9B7EDE"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
   </a>
   <a href="https://in.linkedin.com/in/amash-riaz">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=7B61FF"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-7B61FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
   <a href="mailto:amashriaz1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=9B7EDE"/>
+    <img src="https://img.shields.io/badge/EMAIL-8E44AD?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
   </a>
   <a href="https://github.com/Amashriaz1103">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=C9D1D9"/>
+    <img src="https://img.shields.io/badge/GITHUB-5B4B8A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amashriaz1103&style=flat-square&color=161B22&label=PROFILE%20VIEWS&labelColor=161B22"/>
+  <img src="https://komarev.com/ghpvc/?username=Amashriaz1103&style=for-the-badge&color=6C5CE7&label=PROFILE%20VIEWS"/>
   <a href="https://github.com/Amashriaz1103?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amashriaz1103?style=flat-square&color=161B22&label=FOLLOWERS&labelColor=161B22"/>
+    <img src="https://img.shields.io/github/followers/Amashriaz1103?style=for-the-badge&color=7B61FF&label=FOLLOWERS"/>
   </a>
   <a href="https://github.com/Amashriaz1103?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Amashriaz1103?style=flat-square&color=161B22&label=STARS&labelColor=161B22"/>
+    <img src="https://img.shields.io/github/stars/Amashriaz1103?style=for-the-badge&color=8E44AD&label=STARS"/>
   </a>
 </p>
 
@@ -375,22 +375,22 @@ Hands-on engineering experience developed through academic and independent proje
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Amashriaz1103&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B7EDE&icon_color=7B61FF&text_color=C9D1D9&include_all_commits=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Amashriaz1103&show_icons=true&include_all_commits=true&hide_border=false&bg_color=161B22&title_color=9B7EDE&icon_color=7B61FF&text_color=FFFFFF&border_color=6C5CE7"
+    height="190"
     alt="Amash Riaz GitHub Stats"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=Amashriaz1103&theme=dark&hide_border=true&background=0D1117&ring=9B7EDE&fire=7B61FF&currStreakLabel=9B7EDE&sideLabels=C9D1D9&dates=8B949E"
-    height="180"
+    src="https://streak-stats.demolab.com/?user=Amashriaz1103&theme=dark&hide_border=false&background=161B22&border=6C5CE7&ring=9B7EDE&fire=7B61FF&currStreakLabel=9B7EDE"
+    height="190"
     alt="Amash Riaz GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amashriaz1103&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amashriaz1103&layout=compact&langs_count=8&hide_border=false&bg_color=161B22&title_color=9B7EDE&text_color=FFFFFF&border_color=6C5CE7"
+    height="180"
     alt="Amash Riaz Top Languages"
   />
 </p>
