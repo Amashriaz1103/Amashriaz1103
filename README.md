@@ -71,7 +71,7 @@ My engineering interests include **AI/ML, LLM applications, RAG systems, multi-a
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
 </p>
 
 `Python` · `SQL` · `Java`
@@ -79,23 +79,23 @@ My engineering interests include **AI/ML, LLM applications, RAG systems, multi-a
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
-`HTML` · `CSS` · `JavaScript` · `Front-end Development`
+`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `Front-end Development`
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mysql,postgres,mongodb&theme=dark" />
 </p>
 
-`FastAPI` · `Flask` · `REST APIs` · `MySQL` · `Snowflake`
+`Node.js` · `FastAPI` · `Flask` · `REST APIs` · `MySQL` · `PostgreSQL` · `MongoDB` · `Snowflake`
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 `Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems` · `LangChain` · `LangGraph` · `Prompt Engineering` · `Vector Search` · `FAISS` · `Embedding Models` · `Machine Learning`
@@ -103,12 +103,16 @@ My engineering interests include **AI/ML, LLM applications, RAG systems, multi-a
 ### Cloud, Data Engineering & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,ubuntu,linux,git,github,postman&theme=dark" />
 </p>
 
-`AWS` · `AWS ECS` · `Azure` · `Docker` · `Jenkins` · `CI/CD` · `SonarQube` · `Trivy` · `Databricks` · `PySpark` · `Spark SQL` · `dbt` · `Apache Airflow`
+`AWS` · `AWS ECS` · `Azure` · `Docker` · `Jenkins` · `CI/CD` · `Ubuntu` · `Linux` · `Git` · `GitHub` · `Postman` · `SonarQube` · `Trivy` · `Databricks` · `PySpark` · `Spark SQL` · `dbt` · `Apache Airflow`
 
 ### Analytics & Business
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
 
 `Power BI` · `Tableau` · `Excel` · `Pandas` · `NumPy` · `Exploratory Data Analysis` · `Predictive Modelling` · `Requirement Gathering` · `Business/Process Analysis` · `Gap Analysis` · `User Stories` · `KPI Tracking` · `Decision Support`
 
