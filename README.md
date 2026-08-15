@@ -13,33 +13,33 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Bhopal-6C5CE7?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CGPA-8.09-7B61FF?style=for-the-badge&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE%20%7C%20VIT%20Bhopal-6C5CE7?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CGPA%20%7C%208.09-7B61FF?style=for-the-badge&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/India-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF"/>
 </p>
 
 <p align="center">
   <a href="https://amash-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
   </a>
   <a href="https://in.linkedin.com/in/amash-riaz">
-    <img src="https://img.shields.io/badge/LINKEDIN-7B61FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
   <a href="mailto:amashriaz1@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-8E44AD?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Email-8E44AD?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
   </a>
   <a href="https://github.com/Amashriaz1103">
-    <img src="https://img.shields.io/badge/GITHUB-5B4B8A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/GitHub-5B4B8A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amashriaz1103&style=for-the-badge&color=6C5CE7&label=PROFILE%20VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Amashriaz1103&style=for-the-badge&color=6C5CE7&label=Profile%20Views"/>
   <a href="https://github.com/Amashriaz1103?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amashriaz1103?style=for-the-badge&color=7B61FF&label=FOLLOWERS"/>
+    <img src="https://img.shields.io/github/followers/Amashriaz1103?style=for-the-badge&color=7B61FF&label=Followers"/>
   </a>
   <a href="https://github.com/Amashriaz1103?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Amashriaz1103?style=for-the-badge&color=8E44AD&label=STARS"/>
+    <img src="https://img.shields.io/github/stars/Amashriaz1103?style=for-the-badge&color=8E44AD&label=Stars"/>
   </a>
 </p>
 
@@ -317,35 +317,35 @@ Hands-on engineering experience developed through academic and independent proje
 
 ### AWS
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20%7C%20Certified%20Cloud%20Practitioner-161B22?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=161B22)](https://www.credly.com/go/jMqTo62cPieskXmX0asK2Q)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20%7C%20Certified%20Cloud%20Practitioner-6C5CE7?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)](https://www.credly.com/go/jMqTo62cPieskXmX0asK2Q)
 
 ### Microsoft
 
-[![Microsoft Fabric Analytics Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20%7C%20Analytics%20Engineer%20Associate-161B22?style=flat-square&logo=microsoft&logoColor=7B61FF&labelColor=161B22)](https://learn.microsoft.com/api/credentials/share/en-us/AMASHRIAZ-6296/147019AC293A4B23?sharingId=40E20362877B9F29)
+[![Microsoft Fabric Analytics Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20%7C%20Analytics%20Engineer%20Associate-7B61FF?style=for-the-badge&logo=microsoft&logoColor=FFFFFF)](https://learn.microsoft.com/api/credentials/share/en-us/AMASHRIAZ-6296/147019AC293A4B23?sharingId=40E20362877B9F29)
 
-[![Microsoft Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20%7C%20Data%20Engineer%20Associate-161B22?style=flat-square&logo=microsoft&logoColor=7B61FF&labelColor=161B22)](https://learn.microsoft.com/api/credentials/share/en-us/AMASHRIAZ-6296/568340557AEF188C?sharingId=40E20362877B9F29)
+[![Microsoft Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20%7C%20Data%20Engineer%20Associate-6C5CE7?style=for-the-badge&logo=microsoft&logoColor=FFFFFF)](https://learn.microsoft.com/api/credentials/share/en-us/AMASHRIAZ-6296/568340557AEF188C?sharingId=40E20362877B9F29)
 
-[![Career Essentials in Generative AI](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn%20%7C%20Career%20Essentials%20in%20Generative%20AI-161B22?style=flat-square&logo=microsoft&logoColor=7B61FF&labelColor=161B22)](https://www.linkedin.com/learning/certificates/f7bae75443c7b0cdd2dd4ea7c468b54460d5896182362aa67e8d75568989ca3a)
+[![Microsoft and LinkedIn Career Essentials in Generative AI](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn%20%7C%20Career%20Essentials%20in%20Generative%20AI-8E44AD?style=for-the-badge&logo=microsoft&logoColor=FFFFFF)](https://www.linkedin.com/learning/certificates/f7bae75443c7b0cdd2dd4ea7c468b54460d5896182362aa67e8d75568989ca3a)
 
 ### Postman
 
-[![Postman API Fundamentals Student Expert](https://img.shields.io/badge/Postman%20%7C%20API%20Fundamentals%20Student%20Expert-161B22?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=161B22)](https://api.badgr.io/public/assertions/pEhnjtvkSfiRfUY_UmWyEA?identity__email=amashriaz1%40gmail.com)
+[![Postman API Fundamentals Student Expert](https://img.shields.io/badge/Postman%20%7C%20API%20Fundamentals%20Student%20Expert-6C5CE7?style=for-the-badge&logo=postman&logoColor=FFFFFF)](https://api.badgr.io/public/assertions/pEhnjtvkSfiRfUY_UmWyEA?identity__email=amashriaz1%40gmail.com)
 
 ### McKinsey
 
-[![McKinsey Forward Program](https://img.shields.io/badge/McKinsey%20%7C%20Forward%20Program-161B22?style=flat-square&logoColor=9B7EDE&labelColor=161B22)](https://www.credly.com/badges/6cdbacc4-ee00-4987-8ec7-a841590f84e7)
+[![McKinsey Forward Program](https://img.shields.io/badge/McKinsey%20%7C%20Forward%20Program-7B61FF?style=for-the-badge&logoColor=FFFFFF)](https://www.credly.com/badges/6cdbacc4-ee00-4987-8ec7-a841590f84e7)
 
 ### Oracle
 
-[![Oracle Data Analytics Cloud Professional Certificate](https://img.shields.io/badge/Oracle%20%7C%20Data%20Analytics%20Cloud%20Professional-161B22?style=flat-square&logo=oracle&logoColor=F80000&labelColor=161B22)](https://www.linkedin.com/in/amash-riaz/)
+[![Oracle Data Analytics Cloud Professional Certificate](https://img.shields.io/badge/Oracle%20%7C%20Data%20Analytics%20Cloud%20Professional-8E44AD?style=for-the-badge&logo=oracle&logoColor=FFFFFF)](https://www.linkedin.com/in/amash-riaz/)
 
 ### Cisco
 
-[![Cisco Data Analytics Essentials](https://img.shields.io/badge/Cisco%20%7C%20Data%20Analytics%20Essentials-161B22?style=flat-square&logo=cisco&logoColor=1BA0D7&labelColor=161B22)](https://www.linkedin.com/in/amash-riaz/)
+[![Cisco Data Analytics Essentials](https://img.shields.io/badge/Cisco%20%7C%20Data%20Analytics%20Essentials-6C5CE7?style=for-the-badge&logo=cisco&logoColor=FFFFFF)](https://www.linkedin.com/in/amash-riaz/)
 
 ### NPTEL
 
-[![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL%20%7C%20Cloud%20Computing-161B22?style=flat-square&logoColor=9B7EDE&labelColor=161B22)](https://www.linkedin.com/in/amash-riaz/)
+[![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL%20%7C%20Cloud%20Computing-7B61FF?style=for-the-badge&logoColor=FFFFFF)](https://www.linkedin.com/in/amash-riaz/)
 
 ---
 
@@ -373,28 +373,20 @@ Hands-on engineering experience developed through academic and independent proje
 
 ## GITHUB ANALYTICS
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Amashriaz1103&show_icons=true&include_all_commits=true&hide_border=false&bg_color=161B22&title_color=9B7EDE&icon_color=7B61FF&text_color=FFFFFF&border_color=6C5CE7"
-    height="190"
-    alt="Amash Riaz GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=Amashriaz1103&theme=dark&hide_border=false&background=161B22&border=6C5CE7&ring=9B7EDE&fire=7B61FF&currStreakLabel=9B7EDE"
-    height="190"
-    alt="Amash Riaz GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amashriaz1103&layout=compact&langs_count=8&hide_border=false&bg_color=161B22&title_color=9B7EDE&text_color=FFFFFF&border_color=6C5CE7"
-    height="180"
-    alt="Amash Riaz Top Languages"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amashriaz1103&theme=dark&hide_border=true&background=0D1117&ring=9B7EDE&fire=7B61FF&currStreakLabel=9B7EDE" height="200"/>
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amashriaz1103&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9"
+        height="200"
+        alt="Amash Riaz Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## GITHUB TROPHIES
