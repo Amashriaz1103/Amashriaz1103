@@ -1,22 +1,446 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🎓 B.Tech CSE Student @ VIT Bhopal <br><br>🤖 Passionate about Artificial Intelligence, Generative AI, and Data Analytics<br><br>🧠 Building with LLMs, RAG Systems, AI Agents, Machine Learning, and Cloud Technologies<br><br>📊 Experienced in Healthcare Analytics, Financial Analytics, Business Intelligence, and Predictive Modeling<br><br>⚡ Tech Stack: Python | SQL | LangChain | LangGraph | FastAPI | AWS | Power BI<br><br>🚀 Currently exploring Agentic AI, LLMOps, and Scalable AI Applications<br><br>🌱 Always Learning • Always Building • Always Improving<br><br>📫 Open to Internships, Full-Time Roles, and Collaborations<br>
+# AMASH RIAZ
 
+<p align="center">
+  <a href="https://github.com/Amashriaz1103">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,12,20&text=AMASH%20RIAZ&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Technology%20%7C%20AI%20%7C%20Cloud%20%7C%20Data%20Engineering&descAlignY=60&descSize=17" alt="Amash Riaz"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amash_riaz1426) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amash-riaz)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amashriaz1@gmail.com) 
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=9B7EDE&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Technology+%26+Business+Analysis;Generative+AI+%7C+RAG+%7C+AI+Agents;Cloud+%7C+DevOps+%7C+APIs;Data+Engineering+%7C+Analytics;Building+Practical+Technology+Solutions">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=9B7EDE&center=true&vCenter=true&width=800&lines=Computer+Science+%7C+Technology+%26+Business+Analysis;Generative+AI+%7C+RAG+%7C+AI+Agents;Cloud+%7C+DevOps+%7C+APIs;Data+Engineering+%7C+Analytics;Building+Practical+Technology+Solutions" alt="Typing SVG"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Amashriaz1103&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Amashriaz1103&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amashriaz1103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Bhopal-6C5CE7?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CGPA-8.09-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/India-6C5CE7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
+<p align="center">
+  <a href="https://amashriaz1103.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://in.linkedin.com/in/amash-riaz">
+    <img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amashriaz1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8E44AD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Amashriaz1103">
+    <img src="https://img.shields.io/badge/GitHub-4B3F72?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amashriaz1103&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/Amashriaz1103?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amashriaz1103?style=for-the-badge&color=7B61FF&label=FOLLOWERS"/>
+  </a>
+  <a href="https://github.com/Amashriaz1103?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Amashriaz1103?style=for-the-badge&color=8E44AD&label=STARS"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
+## ABOUT
 
+I am a final-year **B.Tech Computer Science and Engineering** candidate at VIT Bhopal with a hybrid technology and business-analysis profile spanning **Cloud, DevOps, APIs, Artificial Intelligence, Data Engineering, and Analytics**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build practical technology solutions across **Generative AI, RAG, AI Agents, software development, cloud deployment, data engineering, and business analytics**. My project work focuses on translating technical and business requirements into working solutions through solution design, technology integration, automation, and implementation.
+
+My engineering interests include **AI/ML, LLM applications, RAG systems, multi-agent workflows, cloud-native services, APIs, CI/CD, Spark, Databricks, Snowflake, dbt, Airflow, Azure, and data analytics**.
+
+### Open To
+
+- Technology Consulting
+- Digital & Technology Transformation
+- AI / Generative AI Engineering
+- Data Engineering
+- Cloud & DevOps
+- Data Analytics
+- Software / Application Development
+- AI and Data-driven technology projects
+
+---
+
+## TECH STACK
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
+</p>
+
+`Python` · `SQL` · `Java`
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `Front-end Development`
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql&theme=dark" />
+</p>
+
+`FastAPI` · `Flask` · `REST APIs` · `MySQL` · `Snowflake`
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+
+`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems` · `LangChain` · `LangGraph` · `Prompt Engineering` · `Vector Search` · `FAISS` · `Embedding Models` · `Machine Learning`
+
+### Cloud, Data Engineering & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins&theme=dark" />
+</p>
+
+`AWS` · `AWS ECS` · `Azure` · `Docker` · `Jenkins` · `CI/CD` · `SonarQube` · `Trivy` · `Databricks` · `PySpark` · `Spark SQL` · `dbt` · `Apache Airflow`
+
+### Analytics & Business
+
+`Power BI` · `Tableau` · `Excel` · `Pandas` · `NumPy` · `Exploratory Data Analysis` · `Predictive Modelling` · `Requirement Gathering` · `Business/Process Analysis` · `Gap Analysis` · `User Stories` · `KPI Tracking` · `Decision Support`
+
+---
+
+## AI / ML EXPERTISE
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Generative AI | Advanced Project Experience | LLM-powered applications, RAG, prompt engineering and grounded generation |
+| RAG | Advanced Project Experience | Document chunking, embeddings, semantic retrieval, vector search and grounded responses |
+| AI Agents | Advanced Project Experience | Multi-agent systems, specialized agents and autonomous task workflows |
+| Agent Orchestration | Advanced Project Experience | LangGraph-based multi-step reasoning, collaboration and workflow orchestration |
+| APIs & AI Applications | Advanced Project Experience | FastAPI services, Flask applications and integration with AI workflows |
+| Cloud & DevOps | Practical Experience | AWS, AWS ECS, Docker, Jenkins CI/CD and containerized deployment |
+| Machine Learning | Practical Experience | Model development, evaluation, audio classification and predictive analytics |
+
+---
+
+## FEATURED PROJECTS
+
+<details>
+<summary><b>Multi-Agent AI System</b></summary>
+
+### Multi-Agent AI System
+
+A multi-agent AI solution designed around specialized collaborating agents and multi-step workflow orchestration.
+
+| Area | Details |
+|---|---|
+| **Stack** | LangChain, LangGraph, FastAPI, Docker, Jenkins, AWS ECS, SonarQube |
+| **Scale** | Modular multi-agent workflow architecture |
+| **Performance** | Multi-step task orchestration and service-based communication |
+| **Security** | SonarQube and Trivy integrated into the development workflow |
+| **Impact** | Automates multi-step task execution through specialized AI agents |
+| **Repository** | [GitHub Repository](https://github.com/Amashriaz1103/Multi-Ai-Agents-Project) |
+
+**Engineering**
+
+- Designed a multi-agent workflow solution to automate a multi-step task process.
+- Built agent orchestration logic with LangGraph to coordinate multi-step reasoning and agent hand-offs.
+- Integrated FastAPI services for scalable communication between agents and external tools.
+- Implemented Jenkins CI/CD and containerized deployment on AWS ECS.
+
+</details>
+
+<details>
+<summary><b>Medical RAG Chatbot</b></summary>
+
+### Medical RAG Chatbot
+
+An AI-powered Retrieval-Augmented Generation application focused on context-grounded medical information retrieval.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, LangChain, FAISS, Flask, Docker, Jenkins, AWS |
+| **Scale** | End-to-end RAG application and retrieval pipeline |
+| **Performance** | Semantic retrieval and grounded response generation |
+| **Security** | CI/CD and containerized cloud deployment workflow |
+| **Impact** | Enables context-aware information retrieval through RAG |
+| **Repository** | [GitHub Repository](https://github.com/Amashriaz1103/Medical-RAG-Chatbot) |
+
+**Engineering**
+
+- Designed a Retrieval-Augmented Generation solution for context-grounded medical information retrieval.
+- Built document chunking, embeddings and semantic/vector search using FAISS.
+- Integrated retrieval and generation components using LangChain.
+- Implemented Jenkins CI/CD and deployed the application on AWS.
+
+</details>
+
+<details>
+<summary><b>Speech Emotion Detector</b></summary>
+
+### Speech Emotion Detector
+
+A speech-based application using audio processing and deep learning for real-time emotion prediction.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, TensorFlow, Librosa, MFCC, Flask, Deep Learning |
+| **Scale** | Speech processing and multi-class emotion detection |
+| **Performance** | Model evaluation using extracted audio features |
+| **Security** | Application-level implementation |
+| **Impact** | Converts speech signals into emotion predictions through an interactive application |
+| **Repository** | [GitHub Profile](https://github.com/Amashriaz1103) |
+
+**Engineering**
+
+- Developed a speech-based application using audio processing and deep learning.
+- Processed audio signals using MFCC-based feature extraction.
+- Trained and evaluated machine-learning/deep-learning models for emotion detection.
+- Integrated a user-friendly Flask interface for real-time prediction.
+
+</details>
+
+<details>
+<summary><b>Stroke Risk Prediction</b></summary>
+
+### Stroke Risk Prediction
+
+A healthcare analytics project combining Python, machine learning and Power BI for predictive analysis.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, Pandas, NumPy, Machine Learning, Power BI |
+| **Scale** | Healthcare patient dataset |
+| **Performance** | Evaluated using precision, recall and F1-score |
+| **Security** | Data analysis and model evaluation workflow |
+| **Impact** | Identified key stroke risk factors and supported early-intervention analysis |
+| **Repository** | [GitHub Profile](https://github.com/Amashriaz1103) |
+
+**Engineering**
+
+- Analyzed patient health data and performed feature engineering.
+- Addressed class imbalance using precision, recall and F1-score evaluation.
+- Built Power BI dashboards to surface key health risk factors.
+- Developed data-driven insights supporting early-intervention decisions.
+
+</details>
+
+<details>
+<summary><b>Financial Data Analytics</b></summary>
+
+### Financial Data Analytics
+
+A financial analytics project focused on loan, borrower and portfolio risk analysis.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, SQL, Power BI, Excel |
+| **Scale** | Loan and borrower datasets |
+| **Performance** | KPI and risk-pattern analysis |
+| **Security** | Data validation and analytical workflow |
+| **Impact** | Supported risk-aware, data-driven lending decisions |
+| **Repository** | [GitHub Profile](https://github.com/Amashriaz1103) |
+
+**Engineering**
+
+- Evaluated loan and borrower data to identify high-risk patterns.
+- Analyzed income, credit and borrower factors.
+- Built KPI dashboards tracking loan performance and repayment behavior.
+- Generated insights for risk-aware lending and portfolio monitoring.
+
+</details>
+
+<details>
+<summary><b>Sales Data Analysis</b></summary>
+
+### Sales Data Analysis
+
+A business analytics project focused on sales trends, purchasing patterns, revenue drivers and KPI monitoring.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, SQL, Power BI, Excel |
+| **Scale** | Sales transaction dataset |
+| **Performance** | Revenue, growth and customer-segment KPI analysis |
+| **Security** | Structured data preparation and analytical workflow |
+| **Impact** | Supported demand forecasting, inventory planning and strategy decisions |
+| **Repository** | [GitHub Profile](https://github.com/Amashriaz1103) |
+
+**Engineering**
+
+- Analyzed sales data to identify purchasing patterns and revenue drivers.
+- Used Python and SQL for data processing and analysis.
+- Built Power BI dashboards tracking revenue, growth and customer-segment KPIs.
+- Generated insights supporting forecasting, inventory planning and strategy decisions.
+
+</details>
+
+---
+
+## EXPERIENCE
+
+### Academic & Independent Technology Projects
+**2022 – Present**
+
+Hands-on engineering experience developed through academic and independent projects across AI, cloud, software development, data engineering and analytics.
+
+- Designed and implemented end-to-end AI applications.
+- Developed API-driven backend services and AI workflows.
+- Implemented cloud deployment and CI/CD pipelines.
+- Built analytics dashboards and data-driven solutions.
+- Applied problem-solving and technology integration across diverse project requirements.
+
+**Skills:** AI · Generative AI · RAG · APIs · Cloud · DevOps · Data Engineering · Analytics · Software Development
+
+---
+
+## ACHIEVEMENTS
+
+<p align="center">
+
+| Recognition | Details |
+|---|---|
+| **Hackathon — 3rd Place** | Team Hack Elite secured 3rd place at the Healthcare Management System Hackathon at FLUXUS, IIT Indore |
+| **Technology Projects** | Developed multiple AI, analytics and cloud-based projects across academic and independent work |
+| **Continuous Learning** | Built a broad technical foundation across AI, Cloud, DevOps, Data Engineering and Analytics |
+
+</p>
+
+---
+
+## CERTIFICATIONS
+
+### AWS
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7B61FF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/go/jMqTo62cPieskXmX0asK2Q)
+
+### Microsoft
+
+[![Microsoft Fabric Analytics Engineer Associate](https://img.shields.io/badge/Microsoft-Fabric%20Analytics%20Engineer%20Associate-6C5CE7?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AMASHRIAZ-6296/147019AC293A4B23?sharingId=40E20362877B9F29)
+
+[![Career Essentials in Generative AI](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Generative%20AI-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/f7bae75443c7b0cdd2dd4ea7c468b54460d5896182362aa67e8d75568989ca3a)
+
+### Postman
+
+[![Postman API Fundamentals Student Expert](https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-7B61FF?style=for-the-badge&logo=postman&logoColor=white)](https://api.badgr.io/public/assertions/pEhnjtvkSfiRfUY_UmWyEA?identity__email=amashriaz1%40gmail.com)
+
+### McKinsey
+
+[![McKinsey Forward Program](https://img.shields.io/badge/McKinsey-Forward%20Program-6C5CE7?style=for-the-badge)](https://www.credly.com/badges/6cdbacc4-ee00-4987-8ec7-a841590f84e7)
+
+### Oracle
+
+[![Oracle Data Analytics Cloud Professional Certificate](https://img.shields.io/badge/Oracle-Data%20Analytics%20Cloud%20Professional-8E44AD?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/amash-riaz/)
+
+### Cisco
+
+[![Cisco Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-6C5CE7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/amash-riaz/)
+
+### NPTEL
+
+[![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud%20Computing-7B61FF?style=for-the-badge)](https://www.linkedin.com/in/amash-riaz/)
+
+---
+
+## CODING PROFILES
+
+<p align="center">
+  <a href="https://github.com/Amashriaz1103">
+    <img src="https://img.shields.io/badge/GitHub-Amashriaz1103-4B3F72?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-6C5CE7?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7B61FF?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-8E44AD?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-4B3F72?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amashriaz1103&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B7EDE&icon_color=7B61FF&text_color=C9D1D9&ring_color=8E44AD&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amashriaz1103&theme=dark&hide_border=true&background=0D1117&ring=9B7EDE&fire=7B61FF&currStreakLabel=9B7EDE" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amashriaz1103&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9" height="170"/>
+</p>
+
+---
+
+## GITHUB TROPHIES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amashriaz1103&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amashriaz1103&bg_color=0D1117&color=9B7EDE&line=7B61FF&point=C9D1D9&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+</p>
+
+---
+
+## CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amashriaz1103/Amashriaz1103/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## CURRENT FOCUS
+
+```yaml
+Learning:
+  - Advanced Data Engineering
+  - PySpark and Spark SQL
+  - Databricks
+  - Snowflake
+  - Azure
+  - dbt
+  - Apache Airflow
+  - Generative AI
+  - AI Agent Architectures
+
+Building:
+  - AI-powered applications
+  - RAG systems
+  - Multi-agent workflows
+  - Cloud-native services
+  - Data engineering pipelines
+  - Analytics solutions
+
+Exploring:
+  - Digital and Technology Transformation
+  - Cloud Architecture
+  - Data Platforms
+  - AI Engineering
+  - Technology Consulting
+  - Business-driven technology solutions
+
+Open To:
+  - Technology Consulting
+  - AI / GenAI Engineering
+  - Data Engineering
+  - Cloud & DevOps
+  - Data Analytics
+  - Software Development
+  - Collaborative technology projects
